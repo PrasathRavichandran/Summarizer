@@ -12,6 +12,6 @@ Run `npm install` to install node modules. Then run `npm run dev`. The app will 
 Follow me on [LinkedIn](https://www.linkedin.com/in/prasathravi) to get the latest update about features, code and more. Consider star the repo if you like it.  
 
 ## License & Copyright
-© Prasath Ravichandran, Full stack developer
+© Prasath Ravichandran, React Native | React JS | Svelte Kit
 
-Licensed under the [MIT License.](https://github.com/PrasathRavichandran/weather_report_angularjs/blob/master/LICENSE)
+Licensed under the [MIT License.](https://github.com/PrasathRavichandran/Summarizer/blob/main/LICENSE)
